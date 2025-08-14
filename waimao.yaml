@@ -1,4 +1,26 @@
 payload:
+  # ===== 店铺后台 / 电商平台 =====
+  - DOMAIN-SUFFIX,shoplineapp.com
+  - DOMAIN-SUFFIX,bigcommerce.com
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-KEYWORD,sellercentral
+  - DOMAIN-SUFFIX,sellercentral.amazon.com
+  - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN-SUFFIX,etsy.com
+  - DOMAIN-SUFFIX,walmart.com
+  - DOMAIN-SUFFIX,shopee.com
+  - DOMAIN-SUFFIX,lazada.com
+  - DOMAIN-SUFFIX,aliexpress.com
+  - DOMAIN-KEYWORD,aliexpress
+  - DOMAIN-SUFFIX,temu.com
+  - DOMAIN-KEYWORD,temu
+  - DOMAIN-SUFFIX,temuapi.com
+  - DOMAIN-SUFFIX,kwcdn.com
+  - DOMAIN-KEYWORD,kwcdn
+  - DOMAIN-SUFFIX,temuimg.com
+  - DOMAIN-SUFFIX,temucdn.com
+  - DOMAIN-SUFFIX,pay.temu.com
+  
   # ===== 广告投放平台 =====
   - DOMAIN-SUFFIX,ads.linkedin.com
   - DOMAIN-KEYWORD,linkedinads
@@ -32,7 +54,6 @@ payload:
   - DOMAIN-SUFFIX,mailchimp.com
   - DOMAIN-SUFFIX,omnisend.com
 
-
   # ===== 物流后台 =====
   - DOMAIN-SUFFIX,shipstation.com
   - DOMAIN-KEYWORD,shipstation
@@ -62,24 +83,4 @@ payload:
   - DOMAIN-SUFFIX,lianlianpay.com
   - DOMAIN-KEYWORD,lianlianpay
 
-  # ===== 店铺后台 / 电商平台 =====
-  - DOMAIN-SUFFIX,shoplineapp.com
-  - DOMAIN-SUFFIX,bigcommerce.com
-  - DOMAIN-SUFFIX,amazon.com
-  - DOMAIN-KEYWORD,sellercentral
-  - DOMAIN-SUFFIX,sellercentral.amazon.com
-  - DOMAIN-SUFFIX,ebay.com
-  - DOMAIN-SUFFIX,etsy.com
-  - DOMAIN-SUFFIX,walmart.com
-  - DOMAIN-SUFFIX,shopee.com
-  - DOMAIN-SUFFIX,lazada.com
-  - DOMAIN-SUFFIX,aliexpress.com
-  - DOMAIN-KEYWORD,aliexpress
-  - DOMAIN-SUFFIX,temu.com
-  - DOMAIN-KEYWORD,temu
-  - DOMAIN-SUFFIX,temuapi.com
-  - DOMAIN-SUFFIX,kwcdn.com
-  - DOMAIN-KEYWORD,kwcdn
-  - DOMAIN-SUFFIX,temuimg.com
-  - DOMAIN-SUFFIX,temucdn.com
-  - DOMAIN-SUFFIX,pay.temu.com
+
