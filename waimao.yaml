@@ -1,30 +1,7 @@
 payload:
   # ===== 广告投放平台 =====
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,googleadservices.com
-  - DOMAIN-KEYWORD,googleads
-  - DOMAIN-KEYWORD,doubleclick
-  - DOMAIN-SUFFIX,facebook.com
-  - DOMAIN-KEYWORD,fbcdn
-  - DOMAIN-KEYWORD,facebookads
-  - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-KEYWORD,instagramads
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-KEYWORD,tiktokads
-  - DOMAIN-KEYWORD,tiktokv
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-KEYWORD,bingads
   - DOMAIN-SUFFIX,ads.linkedin.com
   - DOMAIN-KEYWORD,linkedinads
-  - DOMAIN-SUFFIX,pinterest.com
-  - DOMAIN-KEYWORD,pinterestads
-  - DOMAIN-SUFFIX,ads-twitter.com
-  - DOMAIN-KEYWORD,twitterads
-  - DOMAIN-SUFFIX,snapchat.com
-  - DOMAIN-KEYWORD,snapads
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,taboola.com
   - DOMAIN-KEYWORD,taboola
@@ -35,7 +12,37 @@ payload:
   - DOMAIN-KEYWORD,pixel
   - DOMAIN-KEYWORD,track
   - DOMAIN-KEYWORD,tracking
+  
+  # ===== 社交 & 内容平台 =====
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-KEYWORD,linkedin
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,medium.com
 
+  # ===== 数据 & 工具类 =====
+  - DOMAIN-SUFFIX,ahrefs.com
+  - DOMAIN-SUFFIX,semrush.com
+  - DOMAIN-SUFFIX,similarweb.com
+  - DOMAIN-SUFFIX,canva.com
+  - DOMAIN-SUFFIX,figma.com
+  - DOMAIN-SUFFIX,envato.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,midjourney.com
+  - DOMAIN-SUFFIX,klaviyo.com
+  - DOMAIN-SUFFIX,mailchimp.com
+  - DOMAIN-SUFFIX,omnisend.com
+
+
+  # ===== 物流后台 =====
+  - DOMAIN-SUFFIX,shipstation.com
+  - DOMAIN-KEYWORD,shipstation
+  - DOMAIN-SUFFIX,17track.net
+  - DOMAIN-KEYWORD,17track
+  - DOMAIN-SUFFIX,easypost.com
+  - DOMAIN-SUFFIX,usps.com
+  - DOMAIN-SUFFIX,ups.com
+  - DOMAIN-SUFFIX,fedex.com
+  
   # ===== 收款平台 =====
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypalobjects.com
@@ -54,11 +61,8 @@ payload:
   - DOMAIN-SUFFIX,pingpongx.com
   - DOMAIN-SUFFIX,lianlianpay.com
   - DOMAIN-KEYWORD,lianlianpay
-  - DOMAIN-SUFFIX,shopifypayments.com
 
   # ===== 店铺后台 / 电商平台 =====
-  - DOMAIN-KEYWORD,shopify
-  - DOMAIN-SUFFIX,myshopify.com
   - DOMAIN-SUFFIX,shoplineapp.com
   - DOMAIN-SUFFIX,bigcommerce.com
   - DOMAIN-SUFFIX,amazon.com
@@ -79,40 +83,3 @@ payload:
   - DOMAIN-SUFFIX,temuimg.com
   - DOMAIN-SUFFIX,temucdn.com
   - DOMAIN-SUFFIX,pay.temu.com
-  
-  # ===== 社交 & 内容平台 =====
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-KEYWORD,ytimg
-  - DOMAIN-SUFFIX,linkedin.com
-  - DOMAIN-KEYWORD,linkedin
-  - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,telegram.org
-  - DOMAIN-KEYWORD,telegram
-  - DOMAIN-SUFFIX,medium.com
-
-  # ===== 数据 & 工具类 =====
-  - DOMAIN-SUFFIX,ahrefs.com
-  - DOMAIN-SUFFIX,semrush.com
-  - DOMAIN-SUFFIX,similarweb.com
-  - DOMAIN-SUFFIX,canva.com
-  - DOMAIN-SUFFIX,figma.com
-  - DOMAIN-SUFFIX,envato.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,midjourney.com
-  - DOMAIN-SUFFIX,klaviyo.com
-  - DOMAIN-SUFFIX,mailchimp.com
-  - DOMAIN-SUFFIX,omnisend.com
-  - DOMAIN-SUFFIX,chat.openai.com
-  - DOMAIN-KEYWORD,chatgpt
-
-  # ===== 物流后台 =====
-  - DOMAIN-SUFFIX,shipstation.com
-  - DOMAIN-KEYWORD,shipstation
-  - DOMAIN-SUFFIX,17track.net
-  - DOMAIN-KEYWORD,17track
-  - DOMAIN-SUFFIX,easypost.com
-  - DOMAIN-SUFFIX,usps.com
-  - DOMAIN-SUFFIX,ups.com
-  - DOMAIN-SUFFIX,fedex.com
