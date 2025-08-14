@@ -73,7 +73,13 @@ payload:
   - DOMAIN-KEYWORD,aliexpress
   - DOMAIN-SUFFIX,temu.com
   - DOMAIN-KEYWORD,temu
-
+  - DOMAIN-SUFFIX,temuapi.com
+  - DOMAIN-SUFFIX,kwcdn.com
+  - DOMAIN-KEYWORD,kwcdn
+  - DOMAIN-SUFFIX,temuimg.com
+  - DOMAIN-SUFFIX,temucdn.com
+  - DOMAIN-SUFFIX,pay.temu.com
+  
   # ===== 社交 & 内容平台 =====
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-KEYWORD,ytimg
